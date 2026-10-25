@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @ZavalaVictor
-- 👀 I’m interested in music
-- 🌱 I’m currently learning piano
-- 💞️ I’m looking to collaborate on my study
-- 📫 How to reach me creating a new person on me
+# Hi, I'm Victor 👋
 
-<!---
-ZavalaVictor/ZavalaVictor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Software developer finishing my B.S. in Information Technology Engineering (UPEMOR, 2026). I build full-stack web applications, from the database to the deployed product.
+
+### 🔧 Tech
+React · JavaScript · Tailwind CSS · Firebase · Vite · Swift · Git
+
+### 🚀 Featured project
+**SotyTech – Real Estate Management System**
+Public property website and admin panel. Frontend on Vercel, backend on Railway.
+[Live demo](https://frontend-public-ruby-six.vercel.app/)
+
+### 📫 Contact
+[LinkedIn](https://www.linkedin.com/in/victor-ochoa-zavala-4656a6210/)
